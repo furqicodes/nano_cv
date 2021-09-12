@@ -1,0 +1,7 @@
+README.md
+setup.py
+slim.egg-info/PKG-INFO
+slim.egg-info/SOURCES.txt
+slim.egg-info/dependency_links.txt
+slim.egg-info/requires.txt
+slim.egg-info/top_level.txt

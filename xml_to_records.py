@@ -6,13 +6,13 @@ import dataset_util
 
 # This are the path to the datasets and to the output files.
 # NEED TO BE UPDATED IN CASE THE DATASET CHANGES
-PATH_TEST = "/Users/furki/Desktop/nano/images/test"
-PATH_RECORD_TEST = "test2.record"
-PATH_TRAIN = "/Users/furki/Desktop/nano/images/train"
-PATH_RECORD_TRAIN = "train2.record"
+PATH_TEST = "C:\nano_cv\images\test"
+PATH_RECORD_TEST = "C:\nano_cv\images\test2.record"
+PATH_TRAIN = "C:\nano_cv\images\train"
+PATH_RECORD_TRAIN = "C:\nano_cv\images\train2.record"
 
-IMAGE_EXT = ".jpg"
-IMAGE_FORMAT = b'jpg'
+IMAGE_EXT = ".png"
+IMAGE_FORMAT = b'png'
 
 # This function defines the different classes the dataset has and return a different number per each.
 # NEED TO BE UPDATED IN CASE THE DATASET CHANGES

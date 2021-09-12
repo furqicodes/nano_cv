@@ -1,4 +1,4 @@
-Conda version: 4.7.1
+Conda version: 4.10.3
 Python version: 3.5
 Dataset image size: 640x480 px
 
